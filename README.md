@@ -1,6 +1,6 @@
 # Machine_learning_practice_projects
 
-This is a respository containing 20 projects to practice your ML concepts and algorithms 
+This is a respository containing **20 projects** to practice your **Machine Learning** concepts and algorithms 
 
 ## Quick start guide
 ### Prerequisite
