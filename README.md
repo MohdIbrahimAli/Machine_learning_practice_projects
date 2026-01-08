@@ -4,7 +4,7 @@ This is a respository containing **20 projects** to practice your **Machine Lear
 
 ## Quick start guide
 ### Prerequisite
-Python(>v3.9)[Download](python.org)
+Python(>v3.9)[Download](https://www.python.org)
 </br>
 Jupyter
 
