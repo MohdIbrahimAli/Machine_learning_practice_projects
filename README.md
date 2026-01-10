@@ -7,5 +7,5 @@ Every folder contains there own detailed README.md. Read them carefully before r
 
 Every README.md caontains deep and in depth knowledge for all the concepts used in the program to get the fundamentals correct and have a better understanding of the concepts stated in them.
 
-🙏 If any contradiction or any misinterpretation is found, Please contact [mail] (mohammedibrahimali100@gmail.com) or you can start a new pull request and ask to be reviewd for any changes inthe files or the written part of the files
+🙏 If any contradiction or any misinterpretation is found, Please contact (main)[mohammedibrahimali100@gmail.com] or you can start a new pull request and ask to be reviewd for any changes inthe files or the written part of the files
 
