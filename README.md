@@ -1,40 +1,11 @@
-# Machine_learning_practice_projects
+# Machine learning practice projects
+This repository contains **20 projects** for Machine learning (beginner level)
 
-This is a respository containing **20 projects** to practice your **Machine Learning** concepts and algorithms 
+By practicing these problems you can have a pretty good understanding of the basic concepts of the Machine Learning to get started in any project of your own.   
 
-## Quick start guide
-### Prerequisite
-Python(>v3.9)[Download](https://www.python.org)
-</br>
-Jupyter
+Every folder contains there own detailed README.md. Read them carefully before running the program.
 
-### Create a virtual Environment
-``` bash
-# for terminal
-python.exe -m venv .venv 
+Every README.md caontains deep and in depth knowledge for all the concepts used in the program to get the fundamentals correct and have a better understanding of the concepts stated in them.
 
-# for running code in jupyter cell
-!python -m venv .venv
-
-```
-
-### Installation of requirements
-```bash
-# using terminal
-pip install -r requirements.txt
-
-#using jupyter cell
-!pip install -r requirements.txt
-```
-
-## 1. Waiter tips prediction model
-import the required libraries 
-```bash
-import pandas as pd
-import numpy as np
-import plotly.express as plt
-import plotly.graph_objects as go
-
-```
-run the cell using **CTRL + Enter** or **Run** option above the cell
+🙏 If any contradiction or any misinterpretation is found, Please contact [mail] (mohammedibrahimali100@gmail.com) or you can start a new pull request and ask to be reviewd for any changes inthe files or the written part of the files
 
