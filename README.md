@@ -12,5 +12,5 @@ Hard work pays best if it is done consistently over long period of time.
 
 Stay healthy and get the most out of this.. 😊
 
-🙏 If any contradiction or any misinterpretation is found, Please contact [mail](mohammedibrahimali100@gmail.com) or you can start a new pull request and ask to be reviewd for any changes in the files or the written part of the files
+🙏 If any contradiction or any misinterpretation is found, Please contact [mail](mailto:mohammedibrahimali100@gmail.com) or you can start a new pull request and ask to be reviewd for any changes in the files or the written part of the files
 
